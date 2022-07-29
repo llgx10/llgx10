@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/llgx10/llgx10/9dcd2a6394a52a1c9393429706a1ccc22917adb3/header.png">
+<img src="https://raw.githubusercontent.com/llgx10/llgx10/main/header.png">
 <h3 align="center">Energetic and positve UIT student looking for an internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llgx10&label=Profile%20views&color=0e75b6&style=flat" alt="llgx10" /> </p>
