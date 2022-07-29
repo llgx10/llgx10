@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **llong23082000@gmail.com**
 
-- 📄 My CV [https://drive.google.com/file/d/1FbuHdySJmP4F7kxW-DXdtz5vyNs88tZ-/view?usp=sharing](https://drive.google.com/file/d/1FbuHdySJmP4F7kxW-DXdtz5vyNs88tZ-/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
